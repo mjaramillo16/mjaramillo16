@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello! I'm Maria Leandra 👋
 
-<!--
-**mjaramillo16/mjaramillo16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Researcher & AI Engineer | Ph.D. Candidate in Data Science Applied to Healthcare**
 
-Here are some ideas to get you started:
+I am a Biomedical Engineer with a Master's in Electrical Engineering, working at the intersection of mathematical modeling, software architecture, and biological systems. My main focus is transforming complex healthcare data (genomics, biological signals, and time series) into automated pipelines and scalable predictive models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do:
+* **Genomics & Architecture:** Researcher and developer at the **Genoma Brasil Project (Fiocruz)**, focusing on the architecture, processing, and visualization of large-scale genomic data pipelines (VCFs).
+*  **Deep Learning & Modeling:** Developing advanced Deep Learning models (PyTorch) and Neural ODEs to simulate the dynamics of biological systems (PUC-Rio).
+*  **Data Translation:** Bridging the gap between complex data and decision-making by designing and developing MVPs and interactive Dashboards.
+
+###  Tech Stack & Tools:
+* **Languages:** Python, SQL, C#, C++, JavaScript, HTML, CSS.
+* **AI & Data Science:** PyTorch, Pandas, NumPy, Scikit-learn, Machine Learning, Deep Learning.
+* **Engineering & Tools:** Git, Pipeline Automation, Software Architecture, Linux/Ubuntu.
+
+###  Featured Projects:
+* [[Genomic MVP](https://github.com/mjaramillo16/Genomic_MVP.git)] - *Interactive dashboard developed from scratch (HTML, CSS, JS) for the Genomics Projects.*
+* [[NetBio Framework](https://github.com/mjaramillo16/NetBio_FRamework.git)] - *A Deep Learning and causal modeling framework for biological systems using Python.*
+
+###  Get in Touch:
+* **LinkedIn:** [www.linkedin.com/in/maria-jaramillo-733024153]
+* **ORCID:** [https://orcid.org/0000-0001-6649-9738]
+* **CVLattes:** [http://lattes.cnpq.br/4705089280145515]
+* **Email:** mguateque10@gmail.com

@@ -1,6 +1,6 @@
 # Hello! I'm Maria Leandra 👋
 
-**Researcher & AI Engineer | Ph.D. Candidate in Data Science Applied to Healthcare**
+**Researcher & AI Engineer | Ph.D. Candidate in Data Science**
 
 I am a Biomedical Engineer with a Master's in Electrical Engineering, working at the intersection of mathematical modeling, software architecture, and biological systems. My main focus is transforming complex healthcare data (genomics, biological signals, and time series) into automated pipelines and scalable predictive models.
 

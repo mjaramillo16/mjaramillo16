@@ -50,7 +50,7 @@ Expanding my stack to become a complete Full Stack Data & AI Developer, focusing
 
 ###  Featured Projects:
 * [[Genomic MVP](https://github.com/mjaramillo16/Genomic_MVP.git)] - *Interactive dashboard developed from scratch (HTML, CSS, JS) for the Genomics Projects.*
-* [[BINDE Framework]([https://github.com/mjaramillo16/NetBio_FRamework.git](https://github.com/mjaramillo16/BINDE-Biologically-Informed-Neural-Differential-Engine)] - *A Deep Learning and causal modeling framework for biological systems using Python.*
+* [[BINDE Framework](https://github.com/mjaramillo16/BINDE-Biologically-Informed-Neural-Differential-Engine)] - *A Deep Learning and causal modeling framework for biological systems using Python.*
 
 ----
 ### GitHub Stats

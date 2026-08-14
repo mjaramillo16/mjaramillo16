@@ -39,7 +39,7 @@ I am a Biomedical Engineer with a Master's in Electrical Engineering, working at
 
 ###  Featured Projects:
 * [[Genomic MVP](https://github.com/mjaramillo16/Genomic_MVP.git)] - *Interactive dashboard developed from scratch (HTML, CSS, JS) for the Genomics Projects.*
-* [[NetBio Framework](https://github.com/mjaramillo16/NetBio_FRamework.git)] - *A Deep Learning and causal modeling framework for biological systems using Python.*
+* [[BINDE Framework]([https://github.com/mjaramillo16/NetBio_FRamework.git](https://github.com/mjaramillo16/BINDE-Biologically-Informed-Neural-Differential-Engine))] - *A Deep Learning and causal modeling framework for biological systems using Python.*
 
 ----
 ### GitHub Stats

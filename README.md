@@ -6,9 +6,10 @@ I am a Ph.D. in Data Science, with a Master's in Electrical Engineering and a ba
 
 ### What I Do:
 * **Requirements Analysis & Product Strategy:** Acting as a Junior Requirements Analyst, I specialize in gathering business/technical needs and translating them into clear architectural specifications and actionable development pipelines.
+* **Full Stack AI & Data Products:** Bridging the gap between complex data and decision-making by building end-to-end architectures. I develop robust backends (FastAPI) and integrate them with native, high-performance web frontends (HTML, CSS, JS, JSON) to deliver scalable dashboards and data platforms.
 * **Genomics & Architecture:** Researcher and developer at the **Genoma Brasil Project (Fiocruz)**, focusing on the architecture, processing, and visualization of large-scale genomic data pipelines.
 * **Deep Learning & Modeling:** Developing advanced Deep Learning models (PyTorch) and causal simulations via Neural ODEs for complex biological systems.
-* **Full Stack AI & Data Products:** Bridging the gap between complex data and decision-making by building end-to-end architectures. I develop robust backends (FastAPI) and integrate them with native, high-performance web frontends (HTML, CSS, JS, JSON) to deliver scalable dashboards and data platforms.
+
 
 ### 🚀 Currently Learning & Building:
 Expanding my stack to become a complete Full Stack Data & AI Developer, focusing on:
@@ -51,6 +52,7 @@ Expanding my stack to become a complete Full Stack Data & AI Developer, focusing
 ###  Featured Projects:
 * [[Genomic MVP](https://github.com/mjaramillo16/Genomic_MVP.git)] - *Interactive dashboard developed from scratch (HTML, CSS, JS) for the Genomics Projects.*
 * [[BINDE Framework](https://github.com/mjaramillo16/BINDE-Biologically-Informed-Neural-Differential-Engine)] - *A Deep Learning and causal modeling framework for biological systems using Python.*
+*  [[REDCap extraction using API](https://github.com/mjaramillo16/REDCap_testes)] - *Automatic extraction data and dictionary metadata using the REDCap API, developed in Python*
 
 ----
 ### GitHub Stats
